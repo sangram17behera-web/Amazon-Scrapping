@@ -1,0 +1,6 @@
+{
+  "Name": "Amazon",
+  "ProjectType": "Process",
+  "Description": "Mobile Scrape",
+  "MainFile": "Main.xaml"
+}

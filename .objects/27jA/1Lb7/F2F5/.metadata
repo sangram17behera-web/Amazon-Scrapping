@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Amazon.in  samsung watches",
+  "Type": "Screen",
+  "Id": "F2F52iJon0SYCq8q1Rqjlg",
+  "Reference": "rlepvQAWEEmAfminXKq5iQ/F2F52iJon0SYCq8q1Rqjlg",
+  "ParentRef": "rlepvQAWEEmAfminXKq5iQ/1Lb7dfDrzkyzL_MESvV-Yw",
+  "Created": "2025-10-15T17:53:10.7156394Z",
+  "Updated": "2025-10-15T17:53:10.7156394Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.16.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
